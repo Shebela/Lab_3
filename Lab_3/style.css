@@ -1,0 +1,66 @@
+.header
+{
+    padding-top: 15px;
+}
+.main
+{
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    min-height: calc(100vh - 70px);
+}
+.background
+{
+    background-color: rgb(247, 247, 247);
+}
+.featureImg
+{
+    margin-bottom: 10px;
+    width: 80px; 
+    height: 80px;
+    border-radius: 50%;
+}
+.feature
+{
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.photo
+{
+    width: 330px; 
+    height: 330px;
+}
+
+.card {
+  width: 200px;
+  padding: 20px;
+}
+
+.bra {
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+
+.users {
+  padding-bottom: 20px;
+  margin-bottom: 50px;;
+}
+.pt10 {
+  margin-left: 10px;
+}
+
+.pt11 {
+margin:0 20% 0 80%;
+width:60%;
+}
+
+.grey {
+  color: #8E8E8E;
+}
+
+.card {
+  background: no-repeat
+  url("https://img.icons8.com/fluent-systems-regular/20/000000/multiply.png");
+  background-position: 95% 5%;
+
+}
